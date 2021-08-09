@@ -7,7 +7,7 @@ studying go, api and databases
 
 # Go
 
-## Instalção
+## Instalação
 
 ```s
 $ sudo apt-get update
